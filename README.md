@@ -1,7 +1,7 @@
 # Ocean-Cleanup-Crusade
 Game Title: Ocean Cleanup Crusade, Dive into the heart of the "Ocean Cleanup Crusade," a thrilling remake that fuses the excitement of a marine adventure with a crucial mission to restore the world's oceans.
 <p align="center">
-  <img src=C:\Users\WinArtsy\Downloads\Untitled-removebg-preview.png width="600" height="400" />
+  <img src="https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/logo.png?raw=true" width="600" height="400" />
 </p>
   
 <p align="center">
@@ -25,46 +25,36 @@ Game Title: Ocean Cleanup Crusade, Dive into the heart of the "Ocean Cleanup Cru
 ## 🌟Introduction 
 <p align="justify">
 Dive into the heart of the "Ocean Cleanup Crusade," a thrilling remake that fuses the excitement of a marine adventure with a crucial mission to restore the world's oceans. Immerse yourself in a vibrant and dynamic underwater realm, where you, as the guardian of the sea, confront formidable challenges to rid the ocean of pollution and safeguard its inhabitants.
-
-Related to Sustainable Development Goals (SDGs):
-"Ocean Cleanup Crusade" actively contributes to key Sustainable Development Goals, underlining its commitment to creating positive change for our planet.
-
-Life Below Water (SDG 14): Championing the preservation and sustainable use of marine resources, the game empowers players to actively participate in cleaning the oceans, combating overfishing, and protecting the diverse marine ecosystems.
-
-Life on Land (SDG 15): The health of the oceans directly impacts life on land. "Ocean Cleanup Crusade" indirectly supports terrestrial ecosystems by addressing pollution and fostering a balanced, thriving environment both below and above the water surface.
-
-Climate Action (SDG 13): The game's focus on cleaning up the ocean aligns with the broader objective of climate action. Players contribute to the fight against climate change by addressing pollution and promoting a healthier, more resilient marine environment.
-
-Responsible Consumption and Production (SDG 12): Through interactive gameplay, "Ocean Cleanup Crusade" educates players on the consequences of irresponsible consumption and production, encouraging sustainable practices for a cleaner and more sustainable future.
 </p>
 
 ---
 ## 🎮Features
 <p align="justify">
-Embark on an immersive virtual pet experience with Wonder Pet, where you can engage in various activities to care for and enhance the well-being of your virtual companion.
+Join Ocean Cleanup Crusade, the action-packed game where you combat marine pollution, face diverse enemies, and save the oceans with strategic laser battles!
 </p>
 
-- #### User Account Management
-  - 🧑‍💻 Create an account to save and retrieve the progress of your virtual pet.
+- #### 1. Environmental Mission:
+  - 🌊 Experience the excitement of a space shooter game with an environmental twist.
+  - 🌊  Battle against various types of marine debris, from trash bags to soda cans, and even face off against formidable sea creatures like sharks and jellyfish.🦈
 
-- #### Pet Care and Progression
-  - 📊 Monitor and level up your pet's stats for essential activities such as play, drinking, eating, taking a bath, and sleeping.
-  - 🌱 Manage decay mechanics to simulate pet needs and growth.
+- #### 2. Intuitive Controls:
+  - 🕹️ Seamlessly navigate your ship through the aquatic challenges using simple arrow key controls.⬅️➡️
+  - 🚀 Command your ship to shoot lasers at oncoming threats with the press of the space bar.
 
-- #### Interactive Gameplay
-  - 🍖 Choose from a variety of essential food items to keep your virtual pet healthy.
-  - 🛀 Provide relaxation, a refreshing bath, and engaging playtime for your virtual pet.
+- #### 3. Dynamic Enemies:
+  - 🐙 Encounter a diverse array of enemies, each with unique behaviors and attack patterns.
+  - 🚨 Defend against relentless waves of pollution as you progress through multiple levels.
 
-- #### In-Game Currency
-  - 💰 Win coins by playing the mini Tic Tac Toe game.
-  - 🛒 Use coins to improve your pet's well-being or purchase essential items.
+- #### 4. Laser Showdown:
+  - 🔥 Engage in intense laser battles with enemies as you strategically avoid their attacks.
+  - 🎮 Wield powerful lasers to obliterate the source of ocean pollution.
 
-- #### Mini-Game
-  - 🎮 Have fun and earn coins by playing a mini-game of Tic Tac Toe.
+- #### 5. Level Progression:
+  - 🎮 Challenge your skills across different levels, each presenting new obstacles and enemies.
+  - 🏆 Overcome waves of pollution and advance through the game to become the ultimate Ocean Cleanup Crusader.
 
-
-- #### Dynamic Environment
-  - 🌅 Experience changing virtual backgrounds that follow a preset schedule determined by the game's internal clock.
+- #### 6. Arcade-style Graphics:
+  - 🎨  Enjoy retro-inspired pixel art for ships, lasers, and enemies, adding a nostalgic touch to the gaming experience. cahnge the icons related to the each description
 
 ---
 ## 🚀Getting Started 
