@@ -1,4 +1,4 @@
-import pygame
+fimport pygame
 import os
 import time
 import random
@@ -199,7 +199,7 @@ def main():
         player.draw(WIN)
         
         if lost:
-            lost_label = lost_font.render("MUKHA KANG ITLOG!", 1, (255,255,255))
+            lost_label = lost_font.render("GAME OVER!", 1, (255,255,255))
             WIN.blit(lost_label, (WIDTH/2 - lost_label.get_width()/2, HEIGHT/2 - lost_label.get_height()/2))
 
         pygame.display.update()
