@@ -100,7 +100,7 @@ Meet the dedicated minds behind "Ocean Cleanup Crusade," where passion meets pur
 
 <br>
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1179305681522786324/1179423259100454922/01a2350f-a9f4-4879-8608-87cf180e695e.jpg](https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/profile.jpg)" width="250" height="250" />
+  <img src="profile.jpg)" width="250" height="250" />
 </p>
 <p align="center">
   MACARAIG, WINONA ASHLEY L.
@@ -115,7 +115,7 @@ Meet the dedicated minds behind "Ocean Cleanup Crusade," where passion meets pur
 <br>
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1179305681522786324/1182331652618338344/324760493_733231447983477_3613885733188523927_n.jpg](https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/rona.jpg)" width="250" height="250" />
+  <img src="rona.jpg" width="250" height="250" />
 </p>
 <p align="center">
   MALANGIS, RONA
@@ -129,7 +129,7 @@ Meet the dedicated minds behind "Ocean Cleanup Crusade," where passion meets pur
 <br>
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1179305681522786324/1179422263251046430/photo.jpg](https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/dianalyn.jpg)" width="250" height="250" />
+  <img src="dianalyn.jpg" width="250" height="250" />
 </p>
 <p align="center">
   MACALALAD, DIANALYN
