@@ -107,13 +107,13 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1toJMIbcGxM8GDsynznatAmTwrbpRzF96/view" target="_blank">Wonder Pet Video Presentation</a>
+  <a href="https://drive.google.com/file/d/1toJMIbcGxM8GDsynznatAmTwrbpRzF96/view" target="_blank">OCEAN CLEANUP CRUSADE</a>
 </p>
 
 
 ---
 ## 👥Meet the Team
-Discover the enthusiastic creators behind Wonder Pet and the individual contributions that bring our project to life!
+Meet the dedicated minds behind "Ocean Cleanup Crusade," where passion meets purpose. Explore the creative forces shaping our mission to raise environmental awareness through gaming. Join us in the crusade for cleaner oceans and a transformative gaming experience! 🌊🕹️
 
 <br>
 <p align="center">
