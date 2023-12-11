@@ -90,7 +90,7 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1toJMIbcGxM8GDsynznatAmTwrbpRzF96/view" target="_blank">OCEAN CLEANUP CRUSADE</a>
+  <a href="[https://drive.google.com/file/d/1toJMIbcGxM8GDsynznatAmTwrbpRzF96/view](https://drive.google.com/file/d/1sz6UmOttJ7XlHjM1zzAsWY-mB7whHpts/view?usp=sharing)" target="_blank">OCEAN CLEANUP CRUSADE VIDEO</a>
 </p>
 
 
@@ -100,7 +100,7 @@ Meet the dedicated minds behind "Ocean Cleanup Crusade," where passion meets pur
 
 <br>
 <p align="center">
-  <img src="profile.jpg)" width="250" height="250" />
+  <img src="profile.jpg" width="250" height="250" />
 </p>
 <p align="center">
   MACARAIG, WINONA ASHLEY L.
