@@ -144,45 +144,45 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 
 <br>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179423259100454922/01a2350f-a9f4-4879-8608-87cf180e695e.jpg" width="250" height="250" />
+  <img src="[https://cdn.discordapp.com/attachments/1179305681522786324/1179423259100454922/01a2350f-a9f4-4879-8608-87cf180e695e.jpg](https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/profile.jpg)" width="250" height="250" />
 </p>
 <p align="center">
-  Huelgas, Julianna Myane L.
+  MACARAIG, WINONA ASHLEY L.
 </p>
 <p align="center">
-  22-07128@g.batstate-u.edu.ph
+  21-04058@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  Contributions (33.3%): Programmer, PowerPoint Presentation
+  Contributions (50%): Programmer, Video Presentation, Documentation (README)
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182331652618338344/324760493_733231447983477_3613885733188523927_n.jpg" width="250" height="250" />
+  <img src="[https://cdn.discordapp.com/attachments/1179305681522786324/1182331652618338344/324760493_733231447983477_3613885733188523927_n.jpg](https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/rona.jpg)" width="250" height="250" />
 </p>
 <p align="center">
-  Lucero, Gio Kervin P.
+  MALANGIS, RONA
 </p>
 <p align="center">
-  22-03412@g.batstate-u.edu.ph
+  21-59605@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  Contributions (33.3%): Programmer, Video Presentation
+  Contributions (25%): Programmer
 </p>
 <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1179422263251046430/photo.jpg" width="250" height="250" />
+  <img src="[https://cdn.discordapp.com/attachments/1179305681522786324/1179422263251046430/photo.jpg](https://github.com/MingArtsy/Ocean-Cleanup-Crusade/blob/master/dianalyn.jpg)" width="250" height="250" />
 </p>
 <p align="center">
-  Magnaye, Maria Lourdes M.
+  MACALALAD, DIANALYN
 </p>
 <p align="center">
-  22-03152@g.batstate-u.edu.ph
+  21-072232-03152@g.batstate-u.edu.ph
 </p>
 <p align="center">
-  Contributions (33.3%): Programmer, Documentation (README)
+  Contributions (25%): Programmer
 </p>
 
 ---
