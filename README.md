@@ -9,19 +9,6 @@ Game Title: Ocean Cleanup Crusade, Dive into the heart of the "Ocean Cleanup Cru
 </p>
 
 ---
-## Table of Contents
-- [🌟 Introduction](#introduction)
-- [🎮 Features](#features)
-- [🚀 Getting Started](#getting-started)
-  - [⚙️ Prerequisites](#prerequisites)
-  - [🛠️ Installation](#installation)
-- [🎮👀 Gameplay Preview](#gameplay-preview)
-- [🌏 Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
-- [🎥🌟 Video Presentation](#video-presentation)
-- [👥 Meet the Team](#meet-the-team)
-- [📊 Self-Assessment](#self-assessment)
-
----
 ## 🌟Introduction 
 <p align="justify">
 Dive into the heart of the "Ocean Cleanup Crusade," a thrilling remake that fuses the excitement of a marine adventure with a crucial mission to restore the world's oceans. Immerse yourself in a vibrant and dynamic underwater realm, where you, as the guardian of the sea, confront formidable challenges to rid the ocean of pollution and safeguard its inhabitants.
@@ -65,11 +52,9 @@ Dive into the realm of "Ocean Cleanup Crusade" through our gameplay preview, sho
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596842442832/Screenshot_2023-12-08_012101.png" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596548833360/Screenshot_2023-12-08_012120.png" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388597077319862/Screenshot_2023-12-08_002620.png" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388596263624844/Screenshot_2023-12-08_012552.png" />
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182388595978416198/Screenshot_2023-12-08_013958.png" />
+  <img src="PressMouseStart.png" />
+  <img src="shooting.png" />
+  <img src="gameover.png" />
 </p>
 
 ---
