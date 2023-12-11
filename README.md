@@ -60,23 +60,21 @@ Dive into the realm of "Ocean Cleanup Crusade" through our gameplay preview, sho
 ---
 ## 🌏Sustainable Development Goals (SDGs) 
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1179305681522786324/1182007228526497852/sdg.png" width="550" height="250" />
-</p>
-
-Become a part of the global movement toward sustainability! Wonder Pet aligns with several SDGs, including:
-
-- **SDG 2: Zero Hunger 🌾**
 <p align="justify">
-SDG 2 aims to end hunger, achieve food security, improve nutrition, and promote sustainable agriculture by 2030, incorporating ethical considerations for animals. The humane treatment of animals is essential for sustainable development, aligning with goals that prioritize animal welfare. Responsible and ethical practices in animal treatment are necessary for achieving Zero Hunger and ensuring a food-secure future for both humans and animals.
+Embark on an exciting virtual journey with "Ocean Cleanup Crusade," a thrilling Python game that not only entertains but also raises awareness about the United Nations' Sustainable Development Goals (SDGs). Let's delve into how this game aligns with various SDGs:
 </p>
 
-- **SDG 3: Good Health and Well-Being 🐾**
+- **SDG 14 - Life Below Water:**
+<p align="justify">
+🎮 Dive into the virtual ocean to combat marine pollution and protect underwater ecosystems.Battle against diverse enemies, including sharks and jellyfish, symbolizing the need to preserve marine biodiversity.
+</p>
+
+- **SDG 6 - Clean Water and Sanitation:**
 <p align="justify">
 SDG 3 aims to ensure healthy lives and well-being for all, including animals. The health and well-being of animals are crucial not only for their welfare but also for human health. Healthy animals, often considered man's best friend, contribute to our emotional well-being. In summary, achieving Good Health and Well-Being involves promoting animal health through disease prevention, vaccination, proper nutrition, and access to veterinary care, all of which are vital.
 </p>
 
-- **SDG 12: Responsible Production and Consumption 🔄️**
+- **SDG 13 - Climate Action:**
 <p align="justify">
 SDG 12 focuses on sustainable consumption and production patterns, with an emphasis on reducing food waste. Addressing food waste is crucial for responsible consumption and production related to animals, as significant amounts are lost at various supply chain stages. Advocating for measures to reduce food waste encourages responsible consumption, optimizing resources in feed production, and minimizing environmental impacts linked to waste disposal.</p>
 
