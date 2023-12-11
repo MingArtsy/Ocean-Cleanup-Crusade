@@ -57,38 +57,11 @@ Join Ocean Cleanup Crusade, the action-packed game where you combat marine pollu
   - 🎨  Enjoy retro-inspired pixel art for ships, lasers, and enemies, adding a nostalgic touch to the gaming experience. cahnge the icons related to the each description
 
 ---
-## 🚀Getting Started 
-
-<p align="justify">
-Greetings from Wonder Pet, where you can embark on a virtual pet adventure! To set up and fully enjoy caring for your virtual dog, follow these steps:
-</p>
-
-### ⚙️Prerequisites
-<a name="prerequisites"></a>
-
-- Ensure you have Python installed (compatible with Python 3.12). Download Python 3.12 from the official website: [Python Downloads](https://www.python.org/downloads/).
-
-### 🛠️Installation
-<a name="installation"></a>
-
-- To bring Wonder Pet to life, install Pygame by opening a terminal or command prompt and running:
-
-      pip install pygame
-
-- If pip is not installed, follow the instructions on the official website: [Installing pip](https://pip.pypa.io/en/stable/installation/)
-
-- Ensure you have the latest version of pip by running:
-  
-      python -m pip install --upgrade pip
-  
-- Now that you have all the necessary components, let's proceed to create and run your Wonder Pet game.
-
----
 
 ## 🎮👀Gameplay Preview
 
 <p align="justify">
-Explore the world of "Wonder Pet" with our gameplay preview, highlighting the enjoyable activities of playing, feeding, and building connections with your virtual pets.
+Dive into the realm of "Ocean Cleanup Crusade" through our gameplay preview, showcasing engaging activities such as battling marine debris, strategically using lasers to combat pollution, and fostering a connection with the virtual ocean. Experience the thrill of contributing to a cleaner and safer aquatic environment!
 </p>
 
 <p align="center">
@@ -130,7 +103,7 @@ SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, inc
 ---
 ## 🎥🌟Video Presentation
 <p align="justify">
-  Explore the charm of "Wonder Pet" in our video presentation, highlighting its distinctive features and objectives. Immerse yourself in engaging functionalities like feeding and playing to form a unique bond with your virtual companions. Discover how Wonder Pet boosts your virtual pet experience, making meaningful contributions to global initiatives.
+ Embark on a thrilling journey with "Ocean Cleanup Crusade" in our captivating video presentation. Battle marine pollution, face formidable enemies, and strategically eliminate ocean debris. This game goes beyond entertainment, emphasizing environmental awareness and sustainability. Join the crusade, save the oceans, and experience the ultimate gaming adventure! 🌊🎮
 </p>
 
 <p align="center">
@@ -189,20 +162,20 @@ Discover the enthusiastic creators behind Wonder Pet and the individual contribu
 ## 📊Self-Assessment
 
 <p align="justify">
-  We, the Wonder Pet team, have conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
-</p>
+  As the Ocean Cleanup Crusade team, we've conducted a comprehensive self-assessment of our project, considering various criteria essential for its success. Below are the ratings reflecting our evaluation:
 
-- **Code Reusability:** 3
-- **Maintainability:** 3
-- **Scalability:** 4
-- **Execution:** 4
-- **Originality:** 4
-- **Overall Impression:** 3
-
-<p align="justify">
-  These ratings reflect our evaluation of the project's performance in certain areas. We continuously strive to improve and appreciate your suggestions for future enhancements.
-</p>
+- **Code Reusability:**  ⭐⭐⭐⭐
+- **Maintainability:** ⭐⭐⭐⭐
+- **Scalability:** ⭐⭐⭐
+- **Execution:** ⭐⭐⭐⭐
+- **Originality:** ⭐⭐⭐⭐
+- **Overall Impression:** ⭐⭐⭐⭐
 
 <p align="justify">
-  Thank you for being a part of our Wonder Pet journey!
+  These ratings provide an evaluation of the project's performance across key dimensions. We are committed to ongoing improvement and highly value your suggestions for enhancing future iterations. Your feedback plays a crucial role in refining our project and making it even better. Thank you for your insights!
+</p>
+
+<p align="justify">
+  
+Thank you for joining the Ocean Cleanup Crusade! Your participation is instrumental in making a positive impact on our virtual journey to clean the oceans.
 </p>
