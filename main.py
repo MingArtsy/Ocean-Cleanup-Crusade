@@ -1,4 +1,4 @@
-fimport pygame
+import pygame
 import os
 import time
 import random
