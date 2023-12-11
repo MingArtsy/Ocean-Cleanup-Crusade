@@ -66,21 +66,26 @@ Embark on an exciting virtual journey with "Ocean Cleanup Crusade," a thrilling 
 
 - **SDG 14 - Life Below Water:**
 <p align="justify">
-🎮 Dive into the virtual ocean to combat marine pollution and protect underwater ecosystems.Battle against diverse enemies, including sharks and jellyfish, symbolizing the need to preserve marine biodiversity.
+Dive into the virtual ocean to combat marine pollution and protect underwater ecosystems.Battle against diverse enemies, including sharks and jellyfish, symbolizing the need to preserve marine biodiversity.
 </p>
 
 - **SDG 6 - Clean Water and Sanitation:**
 <p align="justify">
-SDG 3 aims to ensure healthy lives and well-being for all, including animals. The health and well-being of animals are crucial not only for their welfare but also for human health. Healthy animals, often considered man's best friend, contribute to our emotional well-being. In summary, achieving Good Health and Well-Being involves promoting animal health through disease prevention, vaccination, proper nutrition, and access to veterinary care, all of which are vital.
+Tackle different types of marine debris, such as trash bags, bottles, and soda cans, emphasizing the importance of clean water bodies. Strategize and use lasers to eliminate sources of pollution, promoting the idea of a cleaner and safer aquatic environment.
 </p>
 
 - **SDG 13 - Climate Action:**
 <p align="justify">
-SDG 12 focuses on sustainable consumption and production patterns, with an emphasis on reducing food waste. Addressing food waste is crucial for responsible consumption and production related to animals, as significant amounts are lost at various supply chain stages. Advocating for measures to reduce food waste encourages responsible consumption, optimizing resources in feed production, and minimizing environmental impacts linked to waste disposal.</p>
+Experience the impact of climate change through dynamic enemies and obstacles, highlighting the urgency of climate action.Navigate through challenging levels that symbolize the resilience needed to address environmental challenges.</p>
+
+- **SDG 12 - Responsible Consumption and Production:**
+<p align="justify">
+Engage in a mission to clean up the ocean, promoting responsible consumption and reducing marine waste.Encourage players to think about their ecological footprint and the consequences of unsustainable consumption.
+</p>
 
 - **SDG 15: Life on Land 🌳**
 <p align="justify">
-SDG 15 aims to protect, restore, and sustainably use terrestrial ecosystems, including measures for Human-Animal Conflict Mitigation. Strategies to reduce conflicts between humans and animals, such as establishing corridors and employing non-lethal methods for domestic management, minimize negative interactions. Protecting and nurturing life on land, including animal species, is vital for the health and sustainability of terrestrial ecosystems, contributing to the overall achievement of SDG 15.
+Connect the health of oceans to terrestrial life by showcasing the interdependence of ecosystems. Progress through levels that reflect the broader impact of pollution on both aquatic and terrestrial habitats.
 </p>
 
 ---
